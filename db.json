@@ -1,0 +1,71 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "sex": "male",
+      "age": 26,
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjM3MjM3NTAxM15BMl5BanBnXkFtZTgwMTY0Nzg2OTE@._V1_.jpg"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "sex": "female",
+      "age": 31,
+      "photo": "https://cp14.nevsepic.com.ua/227/22649/1396458409-allday003.jpg"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "sex": "male",
+      "age": 35,
+      "photo": "https://www.gv.com/img/team-large/john-lyman.jpg"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "sex": "female",
+      "age": 23,
+      "photo": "https://thumb-p6.xhcdn.com/a/UtsvREa1jwCg13chOOSNIA/000/041/307/446_1000.jpg"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "sex": "male",
+      "age": 30,
+      "photo": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w425/cast/3b2b388f58aae2da_yr_michaelm_800x1000.jpg"
+    },
+    {
+      "name": "Eleonora",
+      "surname": "Princess",
+      "sex": "female",
+      "age": "33",
+      "photo": "https://source.unsplash.com/1600x900/?portrait",
+      "id": "1657319250915"
+    },
+    {
+      "name": "Mike",
+      "surname": "Mouse",
+      "sex": "male",
+      "age": "18",
+      "photo": "https://source.unsplash.com/random/1600x900/?portrait",
+      "id": "1657319990925"
+    },
+    {
+      "name": "Lindcy",
+      "surname": "Mouse",
+      "sex": "female",
+      "age": "16",
+      "photo": "https://source.unsplash.com/random/1600x900/?portrait",
+      "id": "1657320027320"
+    },
+    {
+      "name": "Red",
+      "surname": "Red",
+      "sex": "male",
+      "age": "18",
+      "photo": "https://source.unsplash.com/random/1600x900/?portrait",
+      "id": "1657321961907"
+    }
+  ]
+}
